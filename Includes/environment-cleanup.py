@@ -1,5 +1,5 @@
 # Databricks notebook source
-# MAGIC %run ../Includes/common/environment-functions
+# MAGIC %run ../includes/common/environment-functions
 
 # COMMAND ----------
 
