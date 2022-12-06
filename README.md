@@ -25,7 +25,7 @@ There are 2 ways to import this code into Databricks. The first way is through D
 ### Getting Started with Databricks UI (Repos Disabled)
 
 1. If Databricks Repos is not enabled, begin by downloading the code from this repository.
-   ![download code](https://cpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/b/3044/files/2021/05/github.png)
+   ![download code](https://github.com/Peter-Mifsud/learn-testing-in-databricks/blob/feat/python-testing/Assets/Images/github-download.png?raw=true)
 2. Unzip the file and save it locally on your computer
 3. Within the Databricks Notebook UI, [follow the directions](https://docs.databricks.com/notebooks/notebook-export-import.html) to upload the entire folder of code that you previously unzipped.
 4. Navigate to the `setup` notebook and you will see the following CMD, start by running this CMD. This will setup the database and tables required for the notebook.
