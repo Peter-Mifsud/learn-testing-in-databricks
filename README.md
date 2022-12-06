@@ -2,7 +2,17 @@
 
 This repo will contain examples of how to test your code within the Databricks environment. It will cover testing techniques like unit testing in Python and Pyspark and assertions in SQL to ensure your code is functioning properly.
 
+## Prerequisite
+
+---
+
+If you do not have a Databricks accounts, you can sign up for a free community edition account (This free account will **not** have access to Databricks Repos)
+
+- [Community Edition Signup](https://community.cloud.databricks.com/login.html)
+
 ## Getting Started
+
+---
 
 There are 2 ways to import this code into Databricks. The first way is through Databricks Repos, but if that feature is not enable in your workspace you can import the files manually through Databrick's UI. We will cover both methods below:
 
