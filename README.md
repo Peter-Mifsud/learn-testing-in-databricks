@@ -35,7 +35,7 @@ There are 2 ways to import this code into Databricks. The first way is through D
 ```
 
 5. Now you are able to proceed through the notebook to learn about testing.
-6. When you are finished, run the last CMD to clean up the environment by dropping the tables and database.
+6. When you are finished, run the last CMD to clean up the environment by dropping the table and database.
 
 ```bash
 %run ../Includes/environment-cleanup
